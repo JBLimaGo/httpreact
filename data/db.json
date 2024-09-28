@@ -29,6 +29,51 @@
       "id": "b8ef",
       "name": "Capa de chuva",
       "price": "50.50"
+    },
+    {
+      "id": "1525",
+      "name": "Telefone",
+      "price": "2500"
+    },
+    {
+      "id": "3bab",
+      "name": "Mouse",
+      "price": "60"
+    },
+    {
+      "id": "4c6d",
+      "name": "Bicicleta",
+      "price": "850"
+    },
+    {
+      "id": "29e3",
+      "name": "Agua",
+      "price": "5"
+    },
+    {
+      "id": "d8ce",
+      "name": "Vitamina",
+      "price": "10"
+    },
+    {
+      "id": "ffdd",
+      "name": "Monitor",
+      "price": "650"
+    },
+    {
+      "id": "87a0",
+      "name": "Fone",
+      "price": "65"
+    },
+    {
+      "id": "f91a",
+      "name": "Fone",
+      "price": "65"
+    },
+    {
+      "id": "52ac",
+      "name": "Fone",
+      "price": "65"
     }
   ]
 }
